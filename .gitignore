@@ -1,6 +1,9 @@
-  *.txt
+*.txt
 
 
-  packages
+packages
+word
 
-  temp.pdf
+temp.pdf
+test2.pdf
+excel.xlsx
